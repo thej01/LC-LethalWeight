@@ -7,7 +7,7 @@ This mod will work better when another mod im making releases.
 
 README will be updated when that happens.
 
-This mod was made in one hour so sorry if there are any bugs.s
+This mod was made in one hour so sorry if there are any bugs
 
 # Hey, can I use Lethal Weight in (blank)?
 **Yes!**
