@@ -17,5 +17,3 @@ You can do whatever you want with this mod! (as long as it's not paid for)
 Include it in modpacks, include it in your mods, just do it!
 
 Just give me credit with a link back to the original mod page, that's all I ask for.
-
-Oh, and the source code is rright here: https://github.com/thej01/LC-LethalWeight
