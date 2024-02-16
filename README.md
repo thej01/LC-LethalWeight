@@ -1,17 +1,22 @@
-# Lethal Weight
-You take more fall damage the more you weigh. That's it!
+# Dynamic Fall Damage
+The way fall damage is calculated in the base game is stages, heres a list of those stages.
 
-The scale is roughly 100lb is double the fall damage as normal.
+1. 30 Damage
+2. 50 Damage
+3. 80 Damage
+4. 100 Damage
 
-This mod will work better when another mod im making releases.
+This mod changes that, and makes fall damage smoothly go from 30 to 100+ (you can also take more than 100 fall damage now).
 
-README will be updated when that happens.
+This mod is recommended to be used alongside Lethal Weight:
 
-This mod was made in one hour so sorry if there are any bugs
+https://thunderstore.io/c/lethal-company/p/thej01/LethalWeight/
 
-# Hey, can I use Lethal Weight in (blank)?
+This mod was made in a few hours so sorry if there are any bugs.
 
-LethalWeight is licensed under GNU General Public License v3.0: https://choosealicense.com/licenses/gpl-3.0/#
+# Hey, can I use Dynamic Fall Damage in (blank)?
+
+Dynamic Fall Damage is licensed under GNU General Public License v3.0: https://choosealicense.com/licenses/gpl-3.0/#
 
 Basically, do whatever you want, just:
 
@@ -19,4 +24,6 @@ Basically, do whatever you want, just:
 2. License and copyright notice
 3. Same license
 4. State changes
+
+Source Code: https://github.com/thej01/LC-DynamicFallDamage
 
