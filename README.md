@@ -10,10 +10,13 @@ README will be updated when that happens.
 This mod was made in one hour so sorry if there are any bugs
 
 # Hey, can I use Lethal Weight in (blank)?
-**Yes!**
 
-You can do whatever you want with this mod! (as long as it's not paid for)
+LethalWeight is licensed under GNU General Public License v3.0: https://choosealicense.com/licenses/gpl-3.0/#
 
-Include it in modpacks, include it in your mods, just do it!
+Basically, do whatever you want, just:
 
-Just give me credit with a link back to the original mod page, that's all I ask for.
+1. Disclose source
+2. License and copyright notice
+3. Same license
+4. State changes
+
